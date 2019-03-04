@@ -28,7 +28,7 @@ public class StudentController {
 
 	@Resource
 	private StudentService studentService;
-	
+	    
 	private HttpServletRequest request;
 	private HttpServletResponse response;
 	@RequestMapping("/add")
