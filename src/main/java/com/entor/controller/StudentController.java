@@ -27,7 +27,7 @@ import com.entor.service.StudentService;
 public class StudentController {
 
 	@Resource
-	private StudentService studentService;	
+	private StudentService studentService;
 	
 	private HttpServletRequest request;
 	private HttpServletResponse response;
